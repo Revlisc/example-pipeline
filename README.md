@@ -1,3 +1,7 @@
+
+A basic ETL pipeline built out with Snowflake and dbt.
+
+
 Welcome to your new dbt project!
 
 ### Using the starter project
